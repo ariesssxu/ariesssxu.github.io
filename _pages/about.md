@@ -10,7 +10,7 @@ redirect_from:
 
  *Manjie Xu* is an undergraduate majoring Brain Science and Artificial Intelligence at [Kuang Yaming Honor School](https://dii.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/) since 2018.    
 He is also working in [Beijing Institute for General Artificial Intelligence(BIGAI)](https://bigai.ai/) advised by A.P. [Yixin Zhu](https://yzhu.io/) since 07.2021.  
-He will begin my Ph.D in 2022 under the direction of A.P. [Wei Liang](https://liangwei-bit.github.io/web/) and A.P. [Yixin Zhu](https://yzhu.io/).
+He will begin his Master in 2022 under the direction of A.P. [Wei Liang](https://liangwei-bit.github.io/web/) and A.P. [Yixin Zhu](https://yzhu.io/).
 # Research
 He is interested in Computer Vision, Abstract Reasoning, Theory of Mind and some other topics that can make agents Smarter and more Intelligent.
 # News
