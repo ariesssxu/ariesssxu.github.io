@@ -12,7 +12,7 @@ redirect_from:
 He is also working in [Beijing Institute for General Artificial Intelligence(BIGAI)](https://bigai.ai/) advised by A.P. [Yixin Zhu](https://yzhu.io/) since 07.2021.  
 He will begin my Ph.D in 2022 under the direction of A.P. [Wei Liang](https://liangwei-bit.github.io/web/) and A.P. [Yixin Zhu](https://yzhu.io/).
 # Research
-He is interested in Computer Vision, Abstract Reasoning, Theory of Mind and some other topics that can make agents more Smarter and Intelligent.
+He is interested in Computer Vision, Abstract Reasoning, Theory of Mind and some other topics that can make agents Smarter and more Intelligent.
 # News
 2022.05: Become a Reviewer in ECCV 2022!
 # Projects
