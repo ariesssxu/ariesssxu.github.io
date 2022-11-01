@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- *Manjie Xu* is a MSc.22 at School of Computer Science & Technology, [Beijing Institute of Technology](https://english.bit.edu.cn/). He is a member of [CoRe Lab, Peking University](https://pku.ai/). He is also working in [Beijing Institute for General Artificial Intelligence(BIGAI)](https://bigai.ai/) advised by A.P. [Yixin Zhu](https://yzhu.io/) since 07.2021. He is now under the direction of A.P. [Wei Liang](https://liangwei-bit.github.io/web/) and A.P. [Yixin Zhu](https://yzhu.io/).  
+ *Manjie Xu* is a MSc.22 at School of Computer Science & Technology, [Beijing Institute of Technology](https://english.bit.edu.cn/). He is in [CoRe Lab, Peking University](https://pku.ai/) and [Mcis Lab (105), Beijing Institute of Technology](gugugu). He is also working in [Beijing Institute for General Artificial Intelligence (BIGAI)](https://bigai.ai/). He is now under the direction of Prof. [Wei Liang](https://liangwei-bit.github.io/web/) and Prof. [Yixin Zhu](https://yzhu.io/).  
 He used to major Brain Science and Artificial Intelligence at [Kuang Yaming Honor School](https://dii.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/).  
 He is a reviewer of ECCV22 and NeurIPS 2022.
 # Research
@@ -28,4 +28,4 @@ A video enhancement project which enables on-line noise removal. # Demos to be a
 Originated as a philosophical quest, personality discerns how individuals differ from each other in terms of thinking, feeling, and behaving. Towards building social machines that work with humans on a daily basis, we are motivated to ask: Do existing pre-trained language models possess personality, akin to their human counterpart?
 [arxiv](https://arxiv.org/abs/2206.07550)
 # Teachers and friends
-Yixin Zhu, Chi Zhang, Guangyuan Jiang, Peiyu Yu, Minglu Zhao, Yuzhe Shi, Lifeng Fan, Songchun Zhu, Yachong Guo, Zhihua Zhou, Xuxi Zhou, Xinyi Tu
+Yixin Zhu, Wei Liang, Chi Zhang, Guangyuan Jiang, Peiyu Yu, Minglu Zhao, Yuzhe Shi, Lifeng Fan, Songchun Zhu, Yachong Guo, Zhihua Zhou, Xuxi Zhou, Xinyi Tu
