@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- *Manjie Xu* is a MSc.22 at School of Computer Science & Technology, [Beijing Institute of Technology](https://english.bit.edu.cn/). He is in [CoRe Lab, Peking University](https://pku.ai/) and [Mcis Lab (105), Beijing Institute of Technology](gugugu). He is also working in [Beijing Institute for General Artificial Intelligence (BIGAI)](https://bigai.ai/). He is now under the direction of Prof. [Wei Liang](https://liangwei-bit.github.io/web/) and Prof. [Yixin Zhu](https://yzhu.io/).  
+ *Manjie Xu* is a MSc.22 at School of Computer Science & Technology, [Beijing Institute of Technology](https://english.bit.edu.cn/). He is in the [CoRe Lab, Peking University](https://pku.ai/) and [Mcis Lab (105), Beijing Institute of Technology](gugugu). He is also working in [Beijing Institute for General Artificial Intelligence (BIGAI)](https://bigai.ai/). He is now under the direction of Prof. [Wei Liang](https://liangwei-bit.github.io/web/) and Prof. [Yixin Zhu](https://yzhu.io/).  
 He used to major Brain Science and Artificial Intelligence at [Kuang Yaming Honor School](https://dii.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/).  
 He is a reviewer of ECCV22 and NeurIPS 2022.
 # Research
