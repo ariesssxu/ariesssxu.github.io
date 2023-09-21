@@ -88,7 +88,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "https://scholar.google.com/citations?user=j-WwUGEAAAAJ&hl=en"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mjtsu.github.io"
+  github           : "https://github.com/mjtsu"
   google_plus      :
   keybase          :
   instagram        :
