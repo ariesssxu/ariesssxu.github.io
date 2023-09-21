@@ -1,5 +1,5 @@
 ---
-title: "Embodied AI"
+title: "Embodied AI Learning and Reasoning"
 collection: talks
 type: "Talk"
 permalink: /talks/Embodied.md
