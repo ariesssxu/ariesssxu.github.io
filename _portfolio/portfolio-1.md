@@ -1,5 +1,4 @@
 ---
-title: "Xishuangbanna"
-excerpt: "<img src='/_portfolio/images/banna2.png'>"
-collection: portfolio
+title: "Photo Gallery"
 ---
+![image-center](./images/banna.jpg)
