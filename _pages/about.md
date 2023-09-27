@@ -26,4 +26,4 @@ Outstanding Academic Scholarships (Beijing Institute of Technology)
 People‘s Scholarship of China (Nanjing University)  
 Honors Graduate, KUANG YAMING HONORS SCHOOL, Nanjing University  
 # Teachers and friends
-Yixin Zhu, Wei Liang, Chi Zhang, Guangyuan Jiang, Peiyu Yu, Minglu Zhao, Yuzhe Shi, Lifeng Fan, Songchun Zhu, Yachong Guo, Zhihua Zhou, Xuxi Zhou, Xinyi Tu
+Yixin Zhu, Wei Liang, Chi Zhang, Guangyuan Jiang, Peiyu Yu, Minglu Zhao, Yuzhe Shi, Lifeng Fan, Song-Chun Zhu, Yachong Guo, Zhihua Zhou, Xuxi Zhou, Xinyi Tu
