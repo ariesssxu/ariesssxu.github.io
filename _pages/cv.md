@@ -6,5 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<!-- link file at files .pdf -->
+<embed src="https://manjiex.github.io/files/Resume.pdf" type="application/pdf" width="600px" height="500px" />
 
 {% include base_path %}

@@ -11,7 +11,8 @@ redirect_from:
 He used to major Brain Science and Artificial Intelligence at [Kuang Yaming Honor School](https://dii.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/).  
 
 # Interest
-My research is focused on making intelligent agents that are not only **adaptive** to their environment but also **synergistic** in their interactions with humans. Drawing inspiration from both theoretical frameworks and empirical studies, which reveal the advanced cognitive capabilities of even very young toddlers, my research combines human-like learning and reasoning processes together with modern machine learning techniques. My current pursuits are mainly twofold: *1)* designing agents capable of inferring human intentions and preferences from vision to enhance human-robot cooperation, and *2)* developing systems that proactively engage with and learn from their surroundings.
+My research is focused on making intelligent agents that are not only **adaptive** to their environment but also **synergistic** in their interactions with humans. Drawing inspiration from both theoretical frameworks and empirical studies, which reveal the advanced cognitive capabilities of even very young toddlers, my research combines human-like learning and reasoning processes together with modern machine learning techniques. My current pursuits are mainly twofold: *1)* designing agents capable of inferring human intentions and preferences from vision to enhance human-robot cooperation, and *2)* developing systems that proactively engage with and learn from their surroundings.  
+Specifically, in light of the significant advancements in pre-trained large language models (LLMs), I'm also interested in customing LLMs for domain-specific tasks like code generation or causal reasoning and make llm-guided agents that can interact with the world.
 # News
 2023.09: Three papers accepted by NeurIPS (one Spotlight).  
 2023.04: Two papers accepted by ICML.
