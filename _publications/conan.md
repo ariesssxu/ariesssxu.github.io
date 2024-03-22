@@ -2,10 +2,9 @@
 title: "Active Reasoning in an Open-World Environment"
 collection: publications
 permalink: '/publication/conan'
-excerpt: '[Code](https://github.com/mjtsu/Conan-Active-Reasoning) [Video](https://vimeo.com/878540519) [Web](https://sites.google.com/view/conan-active-reasoning)'
+excerpt: '[Paper](https://yzhu.io/publication/intent2023neurips/paper.pdf) [Code](https://github.com/mjtsu/Conan-Active-Reasoning) [Video](https://vimeo.com/878540519) [Web](https://sites.google.com/view/conan-active-reasoning)'
 date: '2023.09' 
-venue: '[NeurIPS23]'
-paperurl: 'https://yzhu.io/publication/intent2023neurips/paper.pdf'
+venue: '[NeurIPS23] Proceedings of the Neural Information Processing Systems Conference'
 ---
 
-test
+Recent advances in vision-language learning have achieved notable success on complete-information question-answering datasets through the integration of extensive world knowledge. Yet, most models operate passively, responding to questions based on pre-stored knowledge. In stark contrast, humans possess the ability to actively explore, accumulate, and reason using both newfound and existing information to tackle incomplete-information questions. In response to this gap, we introduce 🔍Conan, an interactive open-world environment devised for the assessment of active reasoning. 🔍Conan facilitates active exploration and promotes multi-round abductive inference, reminiscent of rich, open-world settings like Minecraft. Diverging from previous works that lean primarily on single-round deduction via instruction following, 🔍Conan compels agents to actively interact with their surroundings, amalgamating new evidence with prior knowledge to elucidate events from incomplete observations. Our analysis on 🔍Conan underscores the shortcomings of contemporary state-of-the-art models in active exploration and understanding complex scenarios. Additionally, we explore Abduction from Deduction, where agents harness Bayesian rules to recast the challenge of abduction as a deductive process. Through 🔍Conan, we aim to galvanize advancements in active reasoning and set the stage for the next generation of AI agents adept at dynamically engaging in environments.
