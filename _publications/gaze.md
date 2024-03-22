@@ -2,9 +2,9 @@
 title: "Context-Aware Head-and-Eye Motion Generation with Diffusion Model"
 collection: publications
 permalink: '/publication/gaze'
-excerpt: '[Code](https://github.com/mjtsu/Conan-Active-Reasoning)'
+excerpt: 'TBD'
 date: '2024.01' 
-venue: '[IEEEVR24]'
+venue: '[IEEEVR24] IEEE Conference on Virtual Reality and 3D User Interfaces'
 # paperurl: 'https://yzhu.io/publication/intent2023neurips/paper.pdf'
 ---
 
