@@ -15,7 +15,7 @@ My research is focused on making intelligent agents that are not only **adaptive
 Specifically, in light of the significant advancements in pre-trained large language models (LLMs), I'm also interested in customing LLMs for domain-specific tasks like code generation or causal reasoning and make llm-guided agents that can interact with the world.
 
 # News
-2024.01: One paper accepted by IEEE VR.
+2024.01: One paper accepted by IEEE VR.  
 2023.09: Three papers accepted by NeurIPS (one Spotlight).  
 2023.04: Two papers accepted by ICML.
 
