@@ -2,7 +2,7 @@
 title: "Active Reasoning in an Open-World Environment"
 collection: publications
 permalink: '/publication/conan'
-excerpt: '[Paper](https://yzhu.io/publication/intent2023neurips/paper.pdf) [Code](https://github.com/mjtsu/Conan-Active-Reasoning) [Video](https://vimeo.com/878540519) [Web](https://sites.google.com/view/conan-active-reasoning)'
+excerpt: '[Paper](https://yzhu.io/publication/intent2023neurips/paper.pdf) [Code](https://github.com/ariesssxu/Conan-Active-Reasoning) [Video](https://vimeo.com/878540519) [Web](https://sites.google.com/view/conan-active-reasoning)'
 date: '2023.09' 
 venue: '[NeurIPS23] Proceedings of the Neural Information Processing Systems Conference'
 ---
