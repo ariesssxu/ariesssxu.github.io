@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*Manjie Xu* is a MSc.22 at School of Computer Science & Technology, Beijing Institute of Technology and an incoming Ph.D student at Peking University. I'm in the [Cognitive Reasoning Lab (CoRe Lab) , Peking University](https://pku.ai/) and [Perception, Interaction, Embodiment Lab (Pie Lab), BIT](https://pie-lab.cn/). I also work in [RedNote](https://xiaohongshu.com/). I'm now under the direction of Prof. [Wei Liang](https://liangwei-bit.github.io/web/) and Prof. [Yixin Zhu](https://yzhu.io/).  
+*Manjie Xu* is a Master's student (Class of 2022) at the School of Computer Science & Technology, Beijing Institute of Technology, and an incoming Ph.D. student at Peking University. I'm in the [Cognitive Reasoning Lab (CoRe Lab) , Peking University](https://pku.ai/) and [Perception, Interaction, Embodiment Lab (Pie Lab), BIT](https://pie-lab.cn/). I also work at [RedNote](https://xiaohongshu.com/). I'm currently under the supervision of Prof. [Wei Liang](https://liangwei-bit.github.io/web/) and Prof. [Yixin Zhu](https://yzhu.io/).  
 
-I used to major Brain Science and Artificial Intelligence at [Kuang Yaming Honor School](https://dii.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). He used to be in the [National Key Laboratory of General Artificial Intelligence, BIGAI](https://bigai.ai/) and [Tencent AI Lab](https://ai.tencent.com/ailab/en/about/). 
+Previously, I majored in Brain Science and Artificial Intelligence at [Kuang Yaming Honor School](https://dii.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). I have research experience at the [National Key Laboratory of General Artificial Intelligence, BIGAI](https://bigai.ai/) and [Tencent AI Lab](https://ai.tencent.com/ailab/en/about/). 
 
 ## Interest
 My research focuses on developing intelligent agents that are not only adaptive to their environments but also synergistic in their interactions with humans. Drawing inspiration from both theoretical frameworks and empirical studies—particularly those revealing the advanced cognitive abilities of even very young children—I aim to integrate human-like learning and reasoning processes with modern machine learning techniques. My current pursuits are twofold:
